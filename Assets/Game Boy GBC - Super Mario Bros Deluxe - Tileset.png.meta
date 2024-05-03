@@ -1,0 +1,5416 @@
+fileFormatVersion: 2
+guid: 41a1f941a5e77f24d8ead5d5bc58e7c4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_260
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 382
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296123d1a96a32f45be90561faef5d93
+      internalID: -1344477970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_261
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 382
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4689d41f56282cb44b7773e9ca77222a
+      internalID: 783852761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_262
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 382
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6991f960bcd3944b128cc9f6e607da
+      internalID: -1339800904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_263
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 382
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0bc88360d3e8a43a3d30f2cf0151d1
+      internalID: -87480996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_264
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 382
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba2ffaa780c83e4d9b92c35685db518
+      internalID: 1520704239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_265
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 382
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d76d8ddf69d247871e5548c8fc6af
+      internalID: 2136505662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_266
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 372
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eff9ef36a9e4d46b76dce566f8df12
+      internalID: -1405143638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_267
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 382
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef19e675e557a747b8945bf7ae11b70
+      internalID: 1414554432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_268
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 382
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e43d3f61e80e4b9039ddc4d67a795
+      internalID: 1469826535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_269
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 382
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f05756c6ff1c674f98b231f79836bbf
+      internalID: -1489658656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_270
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 371
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b188df6c2a33948468070a66e80d86e6
+      internalID: -1033407779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_271
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 371
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8a1d9a0a1ffd6429fb0fd85f785212
+      internalID: 2012172390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_272
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 371
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fd5563852445742a85befc0c58045b
+      internalID: -183196089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_273
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 371
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df35975c63032418348e80e1068dbf
+      internalID: 1960101303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_274
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 369
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d9b11f0a3a4f549b93a612bcd82d80
+      internalID: -593383946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_275
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 371
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ef8d4e0da90b64dbfca8ba7d4f5385
+      internalID: -675374218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_276
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 371
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2f21c529a57dd408ef0c31ced0bad5
+      internalID: -1806594451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_277
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 371
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755596a880537f24792353a50e73ff68
+      internalID: -2050289488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_278
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 371
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b12c205d40a1814eba446fb18582e95
+      internalID: 1677582804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_279
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 369
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d11e7a2c72528c48a9487ad0f8410a7
+      internalID: -1256702310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_280
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 371
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb9fc11979348b49b0ae2ed6b0d2d2d
+      internalID: 1328739570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_281
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 371
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc806a656138ccd46847f9eabf25ceab
+      internalID: -834012017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_282
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 371
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a226939517851b44bea1f74dc0e9bee
+      internalID: -690277850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_283
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 372
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9f93102312d2d43b75886e344fc5ec
+      internalID: -203887941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_284
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 372
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ce238ffd1476340a33aa6433a3b0b7
+      internalID: 1093145600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_285
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 370
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3228b2ae246c89543915de9d89bae347
+      internalID: 1391052978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_286
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 372
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8370a15581c385344be3a8b950c338b2
+      internalID: 584520673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_287
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 372
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315c3f827ff51574d9ab72dfd19eba4e
+      internalID: 76523748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_288
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 372
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabae282501f9e54a87a3811548b3a83
+      internalID: -398332645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_289
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb66e3c61f495446a8633622cbef472
+      internalID: 1453643393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_290
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce3eb83533654f45b7a6a99a5ffd364
+      internalID: 1470300361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_291
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e85942102288047836e39760cbd118
+      internalID: -1368770012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_292
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0da4f20b4aa50459bfd54a8ec91d29
+      internalID: -2116497674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_293
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 352
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4075361e8a756b145a1f4463cf3f3a3d
+      internalID: -1800620855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_294
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 352
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ede4bd6bd34da4f9c611b1a77ba53a
+      internalID: 1522132094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_295
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b6a90ec328d1b4696fcc40a8ae9d81
+      internalID: 497818732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_296
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 352
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f574cf40478ac4fb573c6eeca9ad05
+      internalID: -153046653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_297
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 352
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c2fd61fdcc47d4087917e531a4bc51
+      internalID: -642657476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_298
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fab444dc489354f9415dd49805f0bf
+      internalID: 1794006453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_299
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 341
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27f8ff7845c602498106a3a03254487
+      internalID: -1735551356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_300
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 341
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b845d506782b9499c1f3ba519a2d69
+      internalID: 1513692921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_301
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 341
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300b635646692014ea0fc4289610ad06
+      internalID: -84988196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_302
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 341
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd14d65265c3b024b91ce8cf274e4c4a
+      internalID: -315499680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_303
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 341
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6640a455eb4dee43a10a06755e9d620
+      internalID: -2143323087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_304
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 341
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c33e0e064425042abe69dc5166bd0f
+      internalID: -609540217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_305
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 341
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6a5dc83a47cb04c8cedee92a5fe0d7
+      internalID: -1079529742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_306
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 341
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f9393681f9ce548842ae9104f66da5
+      internalID: -1943935523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_307
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 339
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665fe7d616292f947886b9bd6e9ffde1
+      internalID: 1468538066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_308
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 341
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e13b26f52332f4e8a55377458e979e
+      internalID: 84073058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_309
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 341
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b537b14e574cbab418ec3586c14de27d
+      internalID: -682838501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_310
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 341
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ef86b8c6df0344aafb7c7b9b7952ef
+      internalID: -288616206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_311
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514bca76086ad1a409909235e0831dd4
+      internalID: -2120446233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_312
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3057e557c463d541ab5d8d3f7fce310
+      internalID: -2018229783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_313
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bfcd980430f484ab4837f7e6cd666b
+      internalID: 1536545442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_314
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6670fa3b967e20947a49c31c752aeb4b
+      internalID: -830791205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_315
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 322
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9490235c5fd4e4c9df72228cb1ab6c
+      internalID: 392406367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_316
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 322
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3df4e947fb7beb44a2a1337daca51dc
+      internalID: 1804832268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_317
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8024ce7f8042a84bb6fecc2d4faa92f
+      internalID: 442209714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_318
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 322
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9c42a2f08a32847b8d1fa15ea75683
+      internalID: -1337391932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_319
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 322
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca19c62a5fa6bd459d0dbe076ebad6a
+      internalID: 885604148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_320
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 322
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666408e409a02ef4dbfff6e905dbcdb0
+      internalID: -1042274929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_321
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 311
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410da286e7814374c9f87d0538e215a4
+      internalID: 152815189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_322
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 311
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e643e99876bbc33418d51d61d7141ad5
+      internalID: 450207089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_323
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 311
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e221aab1a75eb442ab62754028641d8
+      internalID: -2145271859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_324
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 311
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20831fade9b8e934782dfd6e529a6e24
+      internalID: 489598002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_325
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 311
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0066ed00406d62f499a2e9a6dee03d01
+      internalID: -656458076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_326
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 309
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e533d96107bf2c043823e8a147a603aa
+      internalID: 221922925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_327
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 311
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e84e185b1d3b30498cc5343804996ba
+      internalID: -1090729545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_328
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 311
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f56513b035fc346aa428b4534c44b0
+      internalID: 1371961598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_329
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 311
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4146d0f3a74ac4a9e1fcdae01bcdd0
+      internalID: -197133672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_330
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 311
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e22b60ea8c0154fa05c13ff66cb503
+      internalID: -1312385960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_331
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 311
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f3a1886c7367444808f28047043a74
+      internalID: 507438481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_332
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee7013984f7a1e47b98234cdb8f669c
+      internalID: 29137989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_333
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4a1c539adf484449f13d0b14eb26f8
+      internalID: -501202007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_334
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d521e12a17bcaf342abf23c385fb2065
+      internalID: 125371866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_335
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03b902757143034fa58e0f69367e498
+      internalID: 1355351908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_336
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 292
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede471ee91fed754ab9fd8974e280cc6
+      internalID: 559140017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_337
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 292
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e3378c1b9a7654b8cc8e4017db7b32
+      internalID: 866973255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_338
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ed7b061d7ecc24dad9d972a335f22e
+      internalID: 913404872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_339
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 292
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c47ed677190e459b6a1a77bb0fdf4
+      internalID: -1596842669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_340
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 292
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04fdf41d213fdf4f842c01e882b1a84
+      internalID: -82156428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_341
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 292
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959a0503ef67e0b489ed5f2573383ee7
+      internalID: -367938100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_342
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 279
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33118f5f66d98c840ba84d7300368fa2
+      internalID: -1306154071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_343
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d32b15b47b532f449606bdecf7b3027
+      internalID: 1570894568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_344
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 281
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0345a2ec94251234f9a4fbcd98a02e20
+      internalID: -516426949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_345
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 281
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531dca225bdfdad409e2752e621a08e4
+      internalID: 1784991474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_346
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 281
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c15bfaf26bd5034cb5365055a6a21d7
+      internalID: -1710836902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_347
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef04435b54253fd4e80e6714b42bbf1b
+      internalID: -1538538882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_348
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67a3023199d7f945bc0642be4374d68
+      internalID: -459583641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_349
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a39228f6045764d8a63bedf8a57a1c
+      internalID: 1849658791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_350
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 245
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f87f29131ab3634788d2bd1fa54e108
+      internalID: -1064393828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_351
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 244
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed1486c22b1c4344b3117f7e89fc414
+      internalID: -166336674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_352
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 244
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b4792650ba91146bedeff8cc8e1c30
+      internalID: -377235656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_353
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 245
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dab6c72a4cd4c43a8e51346dbe6476
+      internalID: -1973597516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_354
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 244
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7722b9ec79b0e5e4a8116766b10981a6
+      internalID: 966992309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_355
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 244
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88971d0ea924a346afa918d75894852
+      internalID: 1873105413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_356
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 244
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4413ce929e67934896d474f193040ab
+      internalID: 356368746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_357
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 244
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b27f9a3ec38e7641b1095ef1a703cb4
+      internalID: 1719936534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_358
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d444e7fbdf3f1824f8929fb6444d46aa
+      internalID: 1259692363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_359
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14067309d23139146a99012e925befe9
+      internalID: 144749351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_360
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 227
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4761202507723a74bb6028a77683e120
+      internalID: -2037761324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_361
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 227
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d5dd1a7068d884e8f442112f4c56f8
+      internalID: 1871085557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_362
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f218ada7101102409696c12ef16f248
+      internalID: 1025524971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_363
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 227
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674ed152d7e3d184fb30def2f108cb97
+      internalID: -221108313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_364
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 236
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736ac756c19967949ac31266f5ef98f1
+      internalID: 1439941637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_365
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 236
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e44ed6963883849af0ae7b70fd6e5a
+      internalID: 1585202563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_366
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 228
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bed54962175646498bcfa083bd4a360
+      internalID: 340694545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_367
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 228
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830b3834c54236c49a9e84ce170d69b6
+      internalID: -332734584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_368
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f110e647882b34b81a43c1e7b748dc
+      internalID: -571275992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_369
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d7f4e15f5a0f4999bf0b118d79170
+      internalID: -706416155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_370
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a8f0938b634d4a9d53ae52485277e
+      internalID: -1822267438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_371
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134b9f90437621749acc926b8ddb8b20
+      internalID: 1308254132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_372
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d234c94ae2898144194605b6218bf53b
+      internalID: -1919310416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_373
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3f79b3ff35df0468ed260c1650c214
+      internalID: 855329037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_374
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fad7d6d2b439c45a4881f5103d5dc9
+      internalID: -896656599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_375
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31731f7d519e12d499b21c7c7e0a0305
+      internalID: -615187360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_376
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1af2d80643b334594a009b35a43e2a
+      internalID: 1848541791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_377
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6324784ea650a964f856b65ae2f69748
+      internalID: -1343927711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_378
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9e2830092b11f4685abd9729ff7095
+      internalID: 117795171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_379
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 159
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4542a7d01bd32934ab5e0f56fd1a869c
+      internalID: -712403312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_380
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca04274e2bad4e4eadd7bd0e7d07744
+      internalID: -1445997530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_381
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3d8023c45737a44bc1269100ddaa98
+      internalID: -1332501364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_382
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 193
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777d86ede975dba4599949981886c4d0
+      internalID: -290318411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_383
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 193
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef4212091c67e84d8821d070b87eacb
+      internalID: -472123653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_384
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8bc66a9eeb35940b43a61e3efcba8c
+      internalID: -807852870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_385
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 176
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02646d156b0e2043902cbfde2b7fcba
+      internalID: -211295315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_386
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 176
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fc00051e79f744f9f4d6d223030c32
+      internalID: -1373430046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_387
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 178
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2182be0af58d2439a3915167d14aab
+      internalID: 1238851174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_388
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 176
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d8c64d439a549459bf6d24d338daf6
+      internalID: 1763441088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_389
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac59f71c5f77a9a4d9bba94b96aaaffa
+      internalID: 1085235767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_390
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 165
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d98d1cb28a60240b419586eef8c60a
+      internalID: 1882747589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_391
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 165
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bcad2ea4ac1d2449159734f6799bef
+      internalID: 1539267686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_392
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 165
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749d28e227ba7dc4da6792bb5186a3a7
+      internalID: -1953669619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_393
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217bd9d457c90c143814bc313a7bf624
+      internalID: 1178098291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_394
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db5ed1236f0d1345acc7d80046d737e
+      internalID: 260648783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_395
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9751dc107cd6084b8c23f78cf6a0898
+      internalID: 688221581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_396
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1d08a66c7fd194999f001d9501ec3d
+      internalID: 1815132241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_397
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 159
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3477b2406221d46aea0a3f0d4edcdc
+      internalID: 1260964268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_398
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 159
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d08235205aa14c85550ee3449da8b
+      internalID: 1632685891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_399
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 161
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91c08e69dc7bf84da646cc6befed5ee
+      internalID: 598557804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_400
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e88888e4acb72a469ef221f6d28de38
+      internalID: 682213676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_401
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 137
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f035b90df3f3fdb4fab2315cfa4af40e
+      internalID: -832038232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_402
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 134
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7cd2bdbb4b6a341b947d8432048129
+      internalID: -631964060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_403
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 135
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a99c98e2a1ac346879b946c4ec2922
+      internalID: 1982981658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_404
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 137
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab135ef23279d4085fb0f26a6059e9
+      internalID: -960998064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_405
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 134
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2fed1dd3d1d7145a4e6c8c81412542
+      internalID: 1841457545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_406
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 135
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ef5f563cbaa7b448ff19b560ac29a2
+      internalID: 1469711382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_407
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 126
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8b6a3f2ff3de94db56c6cf4ef3b714
+      internalID: -1755306736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_408
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 126
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edd4959753bedb4495aec276948c9bc
+      internalID: 742388062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_409
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512080fbd9d98704786995dea3e9763f
+      internalID: -263186715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_410
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 126
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8514ed03ff1dd45b2fa91196b33124
+      internalID: -1091676243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_411
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f88f4224200c3c448d000b166497fc5
+      internalID: -1879359258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_412
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c26998f7608a02499a0bef4ff5eb6a2
+      internalID: 1283089082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_413
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382766d123b2fd4aadfd9443b4d4fdf
+      internalID: -1879713407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_414
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8ef61ceb328474d86dc14f3d670fd9
+      internalID: 1141609456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_415
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692fe198d9d5a044cbf61b826de97a08
+      internalID: 1371229961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_416
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fc09b687b295a4a9791a891e4b4141
+      internalID: -871356830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_417
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60345605217674f4d95143982f7f508f
+      internalID: 789966863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_418
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c246189c98fab840ae165511f167920
+      internalID: -1077696403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_419
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 109
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a34e101438e249b41e93f93d2690f
+      internalID: 243885137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_420
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414848e47f264814f986859cf317d9e5
+      internalID: 664508823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_421
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad428a0a4831864b95a0d404d848b66
+      internalID: -1209241758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_422
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 109
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5817e59c525114e92287c992f135fc
+      internalID: -300248227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_423
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2439d5409361a9e4e80531958d695df0
+      internalID: -1264782547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_424
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a302e71fd1396d648ac43fac3aa56d30
+      internalID: -1372679252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_425
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1befd6fb5063c044a9aaaf67a6000afb
+      internalID: -1121674256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_426
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2cbb7cf50ca1e45aa185685632d8f1
+      internalID: 1644909337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_427
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a278cd1004ae9409c7d95e2bd0e968
+      internalID: 1357159735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_428
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 61
+        width: 100
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7d2662fb15cab4fb40183186f256c4
+      internalID: -250104167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_429
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 81
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cb32ac788556846949e1aece009506
+      internalID: -920785354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_430
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 81
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5940d0923b2ead444bb2982559bc226f
+      internalID: -1624301405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_431
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 81
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eea2d4c2d1715448e8c12aacfcd249
+      internalID: -1994386685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_432
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 81
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007e1651bdd54e54899d9a1a0d339364
+      internalID: -1655262965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_433
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b796191ce546b146b169b5571f54506
+      internalID: -1336487696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_434
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 81
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a14d5591a39f634c8947d803b5091cf
+      internalID: 1983959172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_435
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081c40e1bb7a8a34f971d6931f981c12
+      internalID: 571288209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_436
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8601f21479b4542ad11c54db1d1cc5
+      internalID: -1335658234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_437
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 81
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90abb88aff5f38447a19511ed03544c6
+      internalID: -807015828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_438
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 81
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb0dbbd42049f47b65a686e92bd939
+      internalID: -24978142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_439
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e484fe4813aa04ab9824ee19048d57
+      internalID: 591884564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_440
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118dbe1b7781f0942bf05efa07dd3216
+      internalID: -1020140000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_441
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 59
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd8c68917131044ba22952482924530
+      internalID: -2033315578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_442
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 61
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d5b8270c1d7b449be436faacdaf93f
+      internalID: -1724139536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_443
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 61
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c816e40e3c60c74483afe45a27b27a7
+      internalID: -2097623558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_444
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 61
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e1856875d16a04699d3dc5d99353a2
+      internalID: 775608262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_445
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca1e3d7fbf870d4fba15dde96fb0d59
+      internalID: -180243926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_446
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 50
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8b320cde276c14f9b2dfcaf13d3533
+      internalID: 1239809324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_447
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 50
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0266750327e42de45bf756ea3f174367
+      internalID: -1231185696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_448
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 50
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a3c382145fc10459c021919d05f2f5
+      internalID: -1412695603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_449
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 50
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1722e2ef3213c784bacbf691bc9acd03
+      internalID: -618119678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_450
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b555753c5836b2b429470fe48723e54b
+      internalID: -543291336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_451
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c3731250beb141990c4a91a866c23
+      internalID: -1107663738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_452
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 36
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778c7a44e64f8ef4cb47d1f6baa76e00
+      internalID: -2121264942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_453
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 36
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6a7afbd38f56c41ac107c7303a3e4a
+      internalID: -1276752472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_454
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af2fdb88dc52f047981a9941fcac940
+      internalID: -1335569742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_455
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 21
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf7a98872ccb9341bb6e11a75b16323
+      internalID: -1348250110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_456
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac3a1259c95df341a592e0d40df5959
+      internalID: -938655819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_457
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55896b3f387cd824a9eec5dfc8cb78d3
+      internalID: 1942048124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_458
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c68945049a875459d9e8e5f6cd78c9
+      internalID: 400681572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_459
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924292124942b0846b5378913ef086fb
+      internalID: 1463291804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_460
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 21
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb55bab85d4766a49ba2cf9988d34990
+      internalID: -613978921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_461
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17a4c0736d54e54f82ed205e7533c40
+      internalID: -1941252830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_462
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265d793bc7574694db885509d310be23
+      internalID: 196440938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_463
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 21
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6cc8c77872bae4185ea62d5abbf689
+      internalID: -11127271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_464
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c212afcafcad352458dd290a815bf410
+      internalID: -1753217998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_465
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd1e93fe4a3afe46a3c448a63d3f5d4
+      internalID: 908522511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_466
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082b1b06cc578204da89cbbbe8706a30
+      internalID: -1209851213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_467
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c00d38bcfb721944961f71cb11ce08c
+      internalID: -1139731159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_468
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f84d02f43f24c42bab7594533fa0e1
+      internalID: 898860758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_469
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfe21eaac3a12a4ebaa16027d510efd
+      internalID: 1159202028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_470
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87ecd67d412751418780191ee08358f
+      internalID: -944993036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_471
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0486a72b95674d24c80e28e2c2634bd3
+      internalID: -1588784615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_472
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 21
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030dec4d3d51a5447ba4d74d645424f1
+      internalID: -1671095306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_473
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d2e58845976b34f9c3531dbfcbe9a8
+      internalID: -1832363197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_474
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deed669bc82253b4482c7f701a1da9ce
+      internalID: 981551776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_475
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f120b52cf8a0d48981fc74144097e5
+      internalID: 2009236781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_476
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 21
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a6747e726bf6145ae78722c79e3d5b
+      internalID: 1240230640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_477
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7797cc0cfb8da4f409d0d69472ae70db
+      internalID: 352638595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_478
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1e66a2a94b3ce4ca24b4b9dce6b248
+      internalID: 1716476733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_479
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 21
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a981d462cf91934e87f26ad8c763f08
+      internalID: 936262475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_480
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 21
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cac76ae14dd1343842f6d6e918bf63
+      internalID: -348742190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_481
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cb9ce0b05cb5f4a85d165fb251df2e
+      internalID: 8200222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_482
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 21
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be68805b36967444902e826808d7edb
+      internalID: 935118486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_483
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 21
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806cae8eb8a9889419860d00e28c04fa
+      internalID: 1717770416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_484
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2864949aaf02bca488953712bf3e3a0f
+      internalID: 1046858931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_485
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ad96bf319f8124a9f2c4cf4a4c16dc
+      internalID: -273943529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_486
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f84ad17a12ab340a5e091eb0e08c7b
+      internalID: -1717005230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy GBC - Super Mario Bros Deluxe - Tileset_487
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a123488fdeb1b4098f3e56ebe4c887
+      internalID: -2016086744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_0: 560937497
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_1: 1579007872
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_10: -937454508
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_100: -1378623981
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_101: 65748691
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_102: 654689906
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_103: -359723579
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_104: 1938979488
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_105: -1929118544
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_106: -1530702790
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_107: -831173785
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_108: 1120436739
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_109: 1016428884
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_11: 666866963
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_110: -756050320
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_111: 290291489
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_112: 264562406
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_113: 181494127
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_114: -1842949418
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_115: -1387232799
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_116: 65510002
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_117: 1089992488
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_118: -1901645762
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_119: -1512819467
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_12: -1398597384
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_120: -1594684314
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_121: -2127589744
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_122: -1210632175
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_123: 521446392
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_124: 1096528145
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_125: 2017940622
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_126: 1927911233
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_127: -86122542
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_128: -1902939343
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_129: -1233164407
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_13: -372992957
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_130: -390034701
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_131: 549443425
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_132: -1979545388
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_133: 1049565163
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_134: 1242121239
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_135: 445079078
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_136: 1601607253
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_137: -329211316
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_138: -146921440
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_139: 2031644306
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_14: -422192480
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_140: -930980798
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_141: -175342498
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_142: 1602469383
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_143: 692093147
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_144: -505578340
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_145: -745513960
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_146: 1213376841
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_147: 1262437966
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_148: -2001013871
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_149: 320427665
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_15: -789109585
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_150: -525739696
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_151: -644813813
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_152: -2029644128
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_153: 1389025034
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_154: 1655032162
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_155: 637555887
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_156: 699818314
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_157: -71677473
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_158: -1645250407
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_159: 767470303
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_16: 1307545225
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_160: 2006129440
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_161: -87694934
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_162: -1963479510
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_163: 1293955865
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_164: 1553199057
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_165: 758539483
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_166: -797732420
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_167: -1487033595
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_168: 171468108
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_169: -1386814590
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_17: 1203786518
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_170: 2033562076
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_171: 1477281469
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_172: 1803139591
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_173: -18563783
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_174: 298028548
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_175: -1228696532
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_176: -1338123176
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_177: -134338626
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_178: -1853455239
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_179: 2143759238
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_18: -891850361
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_180: -571273905
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_181: -398868367
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_182: 444635864
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_183: -1244725319
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_184: 754852650
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_185: -1336954191
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_186: -466067389
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_187: 735725676
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_188: 2027885586
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_189: 2094353099
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_19: 985238449
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_190: -356516665
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_191: -222544989
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_192: -384142514
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_193: -800985452
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_194: -2003002165
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_195: 493995453
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_196: -1559886631
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_197: 1176351971
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_198: -989544630
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_199: 2146149128
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_2: 954896432
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_20: -1818888197
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_200: -533674403
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_201: 719503213
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_202: 1631392412
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_203: 970555475
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_204: -1856976611
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_205: 1759982299
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_206: -2108069432
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_207: 1878521529
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_208: -1358117413
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_209: -953950707
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_21: -896789427
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_210: -1548526474
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_211: 899721393
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_212: -836945879
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_213: -1114774955
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_214: 756055425
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_215: 1888490829
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_216: 1367515972
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_217: -175968238
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_218: 2065458768
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_219: -880638054
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_22: 27422748
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_220: -1749639596
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_221: 899306530
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_222: 916649509
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_223: -243404988
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_224: -1586200349
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_225: 1481954155
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_226: -1793842650
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_227: -109041812
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_228: 1359166519
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_229: -1263058783
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_23: 1888019696
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_230: 641556377
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_231: 546556645
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_232: 106652958
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_233: -1447963757
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_234: 1106325755
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_235: 447117602
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_236: 2140501597
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_237: -141424385
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_238: 1129796659
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_239: -964327701
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_24: -1776735339
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_240: -1562887501
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_241: -437395081
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_242: 634078465
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_243: -592920375
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_244: 391135826
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_245: 187136576
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_246: 1030097910
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_247: 899624000
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_248: 187062767
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_249: -1615483919
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_25: -625830884
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_250: -810420638
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_251: -1746109280
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_252: 514506886
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_253: 2068177547
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_254: 190662262
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_255: -136536875
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_256: -2002170248
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_257: -391979678
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_258: -1862733106
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_259: 708328794
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_26: 1956245089
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_260: -1344477970
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_261: 783852761
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_262: -1339800904
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_263: -87480996
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_264: 1520704239
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_265: 2136505662
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_266: -1405143638
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_267: 1414554432
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_268: 1469826535
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_269: -1489658656
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_27: -930423771
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_270: -1033407779
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_271: 2012172390
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_272: -183196089
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_273: 1960101303
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_274: -593383946
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_275: -675374218
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_276: -1806594451
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_277: -2050289488
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_278: 1677582804
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_279: -1256702310
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_28: -1012575099
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_280: 1328739570
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_281: -834012017
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_282: -690277850
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_283: -203887941
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_284: 1093145600
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_285: 1391052978
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_286: 584520673
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_287: 76523748
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_288: -398332645
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_289: 1453643393
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_29: 136636434
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_290: 1470300361
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_291: -1368770012
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_292: -2116497674
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_293: -1800620855
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_294: 1522132094
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_295: 497818732
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_296: -153046653
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_297: -642657476
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_298: 1794006453
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_299: -1735551356
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_3: -1435299642
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_30: 187985819
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_300: 1513692921
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_301: -84988196
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_302: -315499680
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_303: -2143323087
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_304: -609540217
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_305: -1079529742
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_306: -1943935523
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_307: 1468538066
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_308: 84073058
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_309: -682838501
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_31: -1919126450
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_310: -288616206
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_311: -2120446233
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_312: -2018229783
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_313: 1536545442
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_314: -830791205
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_315: 392406367
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_316: 1804832268
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_317: 442209714
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_318: -1337391932
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_319: 885604148
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_32: 1288505062
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_320: -1042274929
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_321: 152815189
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_322: 450207089
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_323: -2145271859
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_324: 489598002
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_325: -656458076
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_326: 221922925
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_327: -1090729545
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_328: 1371961598
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_329: -197133672
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_33: 1428009813
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_330: -1312385960
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_331: 507438481
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_332: 29137989
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_333: -501202007
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_334: 125371866
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_335: 1355351908
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_336: 559140017
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_337: 866973255
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_338: 913404872
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_339: -1596842669
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_34: -378636880
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_340: -82156428
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_341: -367938100
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_342: -1306154071
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_343: 1570894568
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_344: -516426949
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_345: 1784991474
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_346: -1710836902
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_347: -1538538882
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_348: -459583641
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_349: 1849658791
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_35: 477441230
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_350: -1064393828
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_351: -166336674
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_352: -377235656
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_353: -1973597516
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_354: 966992309
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_355: 1873105413
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_356: 356368746
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_357: 1719936534
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_358: 1259692363
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_359: 144749351
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_36: -363971008
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_360: -2037761324
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_361: 1871085557
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_362: 1025524971
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_363: -221108313
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_364: 1439941637
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_365: 1585202563
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_366: 340694545
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_367: -332734584
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_368: -571275992
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_369: -706416155
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_37: 1881745946
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_370: -1822267438
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_371: 1308254132
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_372: -1919310416
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_373: 855329037
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_374: -896656599
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_375: -615187360
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_376: 1848541791
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_377: -1343927711
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_378: 117795171
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_379: -712403312
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_38: 496945814
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_380: -1445997530
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_381: -1332501364
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_382: -290318411
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_383: -472123653
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_384: -807852870
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_385: -211295315
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_386: -1373430046
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_387: 1238851174
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_388: 1763441088
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_389: 1085235767
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_39: -1102111662
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_390: 1882747589
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_391: 1539267686
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_392: -1953669619
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_393: 1178098291
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_394: 260648783
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_395: 688221581
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_396: 1815132241
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_397: 1260964268
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_398: 1632685891
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_399: 598557804
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_4: -993077780
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_40: -563821799
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_400: 682213676
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_401: -832038232
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_402: -631964060
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_403: 1982981658
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_404: -960998064
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_405: 1841457545
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_406: 1469711382
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_407: -1755306736
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_408: 742388062
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_409: -263186715
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_41: 1403159497
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_410: -1091676243
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_411: -1879359258
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_412: 1283089082
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_413: -1879713407
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_414: 1141609456
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_415: 1371229961
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_416: -871356830
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_417: 789966863
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_418: -1077696403
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_419: 243885137
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_42: 1721113376
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_420: 664508823
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_421: -1209241758
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_422: -300248227
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_423: -1264782547
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_424: -1372679252
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_425: -1121674256
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_426: 1644909337
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_427: 1357159735
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_428: -250104167
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_429: -920785354
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_43: 1157805785
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_430: -1624301405
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_431: -1994386685
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_432: -1655262965
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_433: -1336487696
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_434: 1983959172
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_435: 571288209
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_436: -1335658234
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_437: -807015828
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_438: -24978142
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_439: 591884564
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_44: 783693654
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_440: -1020140000
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_441: -2033315578
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_442: -1724139536
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_443: -2097623558
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_444: 775608262
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_445: -180243926
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_446: 1239809324
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_447: -1231185696
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_448: -1412695603
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_449: -618119678
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_45: -1013097954
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_450: -543291336
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_451: -1107663738
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_452: -2121264942
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_453: -1276752472
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_454: -1335569742
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_455: -1348250110
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_456: -938655819
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_457: 1942048124
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_458: 400681572
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_459: 1463291804
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_46: 2136537317
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_460: -613978921
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_461: -1941252830
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_462: 196440938
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_463: -11127271
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_464: -1753217998
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_465: 908522511
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_466: -1209851213
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_467: -1139731159
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_468: 898860758
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_469: 1159202028
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_47: -1730388077
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_470: -944993036
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_471: -1588784615
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_472: -1671095306
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_473: -1832363197
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_474: 981551776
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_475: 2009236781
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_476: 1240230640
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_477: 352638595
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_478: 1716476733
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_479: 936262475
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_48: 1534973950
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_480: -348742190
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_481: 8200222
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_482: 935118486
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_483: 1717770416
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_484: 1046858931
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_485: -273943529
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_486: -1717005230
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_487: -2016086744
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_49: -885498847
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_5: 798449110
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_50: 1262383494
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_51: 1270294889
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_52: 1562220080
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_53: -1190336253
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_54: -1808652821
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_55: 1842241309
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_56: 757324160
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_57: -338583458
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_58: -650333099
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_59: -1587375532
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_6: 1455894602
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_60: -1896356919
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_61: 1452503601
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_62: 1942372270
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_63: -629710604
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_64: 1843963158
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_65: -1105095084
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_66: -1014769252
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_67: 1073848161
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_68: -1943719283
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_69: 1551877892
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_7: 1937827260
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_70: 589696095
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_71: 1513214912
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_72: -2139203855
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_73: 586888696
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_74: 65893132
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_75: 585006208
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_76: -393727942
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_77: 1111489222
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_78: -982915603
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_79: 416650607
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_8: -1574190908
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_80: -370035702
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_81: 1437689850
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_82: -1517056936
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_83: -867032821
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_84: 123566070
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_85: 744763171
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_86: -628950666
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_87: -1028632330
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_88: -1482677838
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_89: 1277341161
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_9: -1770163060
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_90: -1157312185
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_91: -745654880
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_92: -342660448
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_93: -895764731
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_94: 263230683
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_95: -1210372299
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_96: 652694990
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_97: 1895768125
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_98: -2079561457
+      Game Boy GBC - Super Mario Bros Deluxe - Tileset_99: 1275908943
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
