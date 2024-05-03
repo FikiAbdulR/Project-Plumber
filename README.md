@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Project Plumber is a game project that takes inspiration from the classic game Super Mario Bros. produced by Nintendo. In this project, players will control the main character to go through various levels full of obstacles, enemies and challenges that must be overcome.<br><br>By using several assets from the NES version of the Super Mario Bros game, it should be noted that this project was created solely as a means of education and learning, without the intention of exploiting the copyright owned by Nintendo.</p>
+<p align="left">Super Mario Bros is a platformer game developed and published by Nintendo for the NES game console. In this project, players will control the main character to go through various levels full of obstacles, enemies and challenges that must be overcome.<br><br>By using several assets from the NES version of the Super Mario Bros game, it should be noted that this project was created solely as a means of education and learning, without the intention of exploiting the copyright owned by Nintendo.</p>
 
 ###
 
