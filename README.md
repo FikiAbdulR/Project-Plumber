@@ -1,4 +1,4 @@
-<h1 align="left">PROJECT PLUMBER</h1>
+<h1 align="left">PROJECT CHIMERA</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Project Plumber is a game project that takes inspiration from the classic game Super Mario Bros. produced by Nintendo. In this project, players will control the main character to go through various levels full of obstacles, enemies and challenges that must be overcome.<br><br>By using several assets from the NES version of the Super Mario Bros game, it should be noted that this project was created solely as a means of education and learning, without the intention of exploiting the copyright owned by Nintendo.</p>
+<p align="left">Project Chimera is 3D topdown shooter project, with a bird view angle perspective, where players can shoot and move around the area, the concept of this game will later become an extraction game where players have to go down to pick up objects in a facility, then leave that place, in the process get this object, the player will be confronted by monsters around the facility player need to survive in order to complete the mission.</p>
 
 ###
 
